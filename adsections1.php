@@ -1,0 +1,1 @@
+        <div id="adsections">				<div id="ad1">		</div><!--ad 1-->		<div id="ad2">		</div><!--ad 2-->		<div id="ad3">		</div><!--ad 3-->		<div style="clear:both;"></div>				<div id="ad4">		</div><!--ad 4-->	</div> <!-- ad section--> 	
